@@ -47,16 +47,14 @@ Terminal
 🏆 GitHub Trophies
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=dark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" /> </div>
 🚀 Featured Cybersecurity Projects
+
 🔐 Security Projects
 
 Password Strength Analyzer - Advanced password security assessment tool
 
-💻 Development Projects
-Cybersecurity Dashboard - Real-time security monitoring interface
+Cipher Encryption tool- Used to encrypt and decrypt messages
 
-Penetration Testing Automation - Automated pentesting workflows
-
-CTF Challenge Solutions - My solutions to various CTF challenges
+Image Encryption tool- Used to encrypt images as well as decrypt them 
 
 📚 Currently Learning
 
