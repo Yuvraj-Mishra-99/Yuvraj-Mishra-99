@@ -3,7 +3,7 @@
 ## 🛡️ Cybersecurity Student | 🔐 Security Enthusiast
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Yuvraj-Mishra-99&label=Profile%20views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/Yuvraj-Mishra-99?label=Followers&style=social)](https://github.com/your-github-username)
+[![GitHub followers](https://img.shields.io/github/followers/Yuvraj-Mishra-99?label=Followers&style=social)](https://github.com/Yuvraj-Mishra-99)
 
 ---
 
